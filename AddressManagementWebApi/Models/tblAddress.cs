@@ -23,6 +23,7 @@ namespace AddressManagementWebApi.Models
             get
             {
                 return DOB.ToString("yyyy/MM/dd");
+                
             }
         }
 
